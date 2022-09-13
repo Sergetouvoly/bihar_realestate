@@ -1,0 +1,9 @@
+.footer-app-container footer{
+    background: #000000de;
+}
+
+
+.footer-app-container p,.footer-app-container h5{
+    color: #ffffffde;
+    font-weight: bold;
+}

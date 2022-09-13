@@ -1,0 +1,22 @@
+.navbar-app{
+    background: #ffffff;
+    box-shadow: 5px 3px 3px #afa8a87d,-5px 3px 3px #afa8a87d;
+}
+
+.navbar-app-nav{
+    margin-left: 30%;
+}
+
+.navbar-app-nav a{
+    text-decoration: none;
+    font-size:14px;
+    font-weight:550;
+    font-family: "Muli",sans-serif;
+    color: #171616;
+
+}
+
+.navbar-app-nav a:hover,.navbar-app-nav a:focus{
+    color: #A4540A;
+
+}

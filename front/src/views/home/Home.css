@@ -1,0 +1,80 @@
+.home-container{
+    background: #F0F0F0;
+}
+
+.home-section-header{
+    height: 100%;
+}
+
+.home-section-header .home-carousel-item{
+    height: auto;
+    padding: 10rem;
+    overflow: hidden;
+}
+
+.home-section-header .home-carousel-item-1{
+    background-image: linear-gradient(to bottom, rgba(14, 12, 12, 0.599), #3434373c), url("../../assets/images/home/photo2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-section-header .home-carousel-item-2{
+    background-image: linear-gradient(to bottom, rgba(14, 12, 12, 0.599), #3434373c), url("../../assets/images/home/house2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.home-section-header .home-carousel-item-3{
+    background-image: linear-gradient(to bottom, rgba(14, 12, 12, 0.599), #3434373c), url("../../assets/images/home/house1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.home-section-header .home-carousel-item h1{
+    font-size: 45px;
+    display: block;
+    color: #ffffff;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+.home-section-header .home-carousel-item .section-button{
+    padding-top: 8rem;
+}
+.home-section-header .home-carousel-item .section-button>button{
+    padding: 15px 30px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family:"Muli",sans-serif;
+}
+
+.owl-home-carousel-dot{
+    background: #C83A3A;
+    color: #C83A3A;
+    height:10px;
+    border:0;
+    width:10px;
+    border-radius: 100%;
+    margin:0px 10px;
+}
+
+.owl-home-carousel-dot:active{
+    background: #1f1919;
+}
+.home-section-content{
+    padding: 80px 0px 150px 0px;
+}
+
+.home-section-content .section-title>h1{
+    font-size: 45px;
+    display: block;
+    color: #0f0d0d;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+}

@@ -1,0 +1,65 @@
+.card-housing{
+    padding: 5px;
+    background: #fff;
+    bottom: none;
+}
+
+.card-housing-header{
+    padding: 5px 0px;
+    height:3rem;
+}
+
+  
+.card-housing-tilte-container  h4{
+    font-size: 20px;
+    display: block;
+    color: #A4540A;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+    line-clamp: 1;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.card-housing-price-type-container h5{
+    font-size: 18px;
+    display: block;
+    color: #040404;
+    font-weight: 800;
+    text-transform: uppercase;
+    line-height: 1.4;
+}
+
+.card-housing-price-type-container p{
+    font-size: 16px;
+    display: block;
+    color: #A4540A;
+    font-weight: 550;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.card-housing-content .card-housing-text{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;  
+    overflow: hidden;
+}
+
+.card-housing-btn{
+    padding: 10px 20px;
+    background: #A4540A;
+    border: 1px solid  #A4540A;
+    color: #fff;
+    font-weight: 600;
+}
+
+.card-housing-btn:hover{
+    background: #A4540A;
+}

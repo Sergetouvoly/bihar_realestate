@@ -1,0 +1,49 @@
+.admin-container{
+    min-height: 100%;
+    height: 100%;
+    padding: 100px;
+}
+
+
+
+.admin-container .admin-tabs-section .nav-tabs{
+    background: #0a0fa4;
+    color: #fff;
+}
+
+.admin-container .admin-tabs-section .nav-tabs .nav-item{
+    font-size: 15px;
+    background: #ffffff;
+    line-height: 1.4;
+}
+
+.admin-container .admin-tabs-section .nav-tabs .nav-item button{
+    font-size: 15px;
+    display: block;
+    font-weight: 900;
+    text-transform: capitalize;
+    line-height: 1.4;
+    color: rgb(0, 0, 0);
+    padding:15px 0px;
+    border-left: 1px solid #ffffff;
+}
+
+.admin-container .admin-tabs-section .nav-tabs .nav-item button:active{
+    font-size: 15px;
+    display: block;
+    background: #A4540A;
+    font-weight: 500;
+    text-transform: capitalize;
+    line-height: 1.4;
+}
+
+
+.admin-container .admin-tabs-section  .tab-content{
+    
+}
+
+.admin-container .admin-tabs-section .tab-content .tab-pane{
+    
+}
+
+

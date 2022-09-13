@@ -1,0 +1,63 @@
+.housing-details-container{
+    background: #F0F0F0;
+    padding:100px 0px;
+}
+.owl-housing-details-carousel-dot{
+    background: #C83A3A;
+    color: #C83A3A;
+    height:10px;
+    border:0;
+    width:10px;
+    border-radius: 100%;
+    margin:0px 10px;
+}
+
+.owl-housing-details-carousel-dot:active{
+    background: #1f1919;
+}
+
+.housing-details-infos p{
+    font-size: 15px;
+    display: block;
+    color: #232121;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+
+.housing-details-infos p > i{
+    font-size: 25px;
+    color: #A4540A;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+
+
+.housing-details-infos h2{
+    font-size: 25px;
+    display: block;
+    color: #A4540A;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+
+.title-description-container,.title-responsable-container{
+    border-left: 2px solid #A4540A;
+    text-transform: capitalize;
+
+}
+.title-description-container>h1,.title-responsable-container >h1{
+    font-size: 35px;
+    display: block;
+    color: #0f0d0d;
+    font-weight: 800;
+    text-transform: capitalize;
+    line-height: 1.4;
+
+}
+

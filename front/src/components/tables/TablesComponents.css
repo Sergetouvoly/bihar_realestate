@@ -1,0 +1,42 @@
+
+
+.table-header{
+    padding:50px 0px;
+}
+
+.table-component{
+    background: #ffffff;
+    box-shadow:5px 5px 3px #b3b3b376,-5px -5px 3px #b3b3b376;
+}
+.add-table-btn{
+    border:none;
+    position: relative;
+    width: 50%;
+    height: 52px;
+    margin:auto;
+    background: #1e48f2;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    color:#fff;
+
+}
+
+.table-btn {
+    border-radius: 100%;
+    height:auto;
+    width:auto;
+    padding: 3px 5px;
+}
+
+.table-btn .table-btn-eye{
+    color:#fff;
+    background: #000;
+}
+.table-btn .table-btn-update{
+    background: #000;
+    
+}
+.table-btn .table-btn-delete{
+    
+}
